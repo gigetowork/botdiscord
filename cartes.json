@@ -1,0 +1,34 @@
+{
+  "probabilites": {
+    "Commun": 60,
+    "Rare": 25,
+    "Épique": 12,
+    "Légendaire": 3
+  },
+  "cartes": [
+    {
+      "id": "carte_001",
+      "nom": "Le retard d'Hugo",
+      "rarete": "Commun",
+      "description": "Arrive toujours 45 minutes après l'heure fixée.",
+      "image": "https://lien-de-ton-image.com/hugo.png",
+      "stock_max": -1
+    },
+    {
+      "id": "carte_002",
+      "nom": "Le rire de Thomas",
+      "rarete": "Épique",
+      "description": "Un son strident capable de briser le verre.",
+      "image": "https://lien-de-ton-image.com/thomas.png",
+      "stock_max": 10
+    },
+    {
+      "id": "carte_003",
+      "nom": "Le Dossier Ultime",
+      "rarete": "Légendaire",
+      "description": "La photo que tout le monde veut cacher. Ultra limitée !",
+      "image": "https://lien-de-ton-image.com/dossier.png",
+      "stock_max": 2
+    }
+  ]
+}
