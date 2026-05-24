@@ -1,0 +1,23 @@
+{
+  "objets": [
+    {
+      "id": "perso_001",
+      "nom": "Épée Légendaire de test",
+      "rarete": "Légendaire",
+      "image": "https://images.unsplash.com/photo-1589149013811-22447b119a0a?auto=format&fit=crop&q=80&w=400",
+      "description": "Un objet d'un autre monde."
+    },
+    {
+      "id": "perso_002",
+      "nom": "Bouclier en Bois",
+      "rarete": "Commun",
+      "image": "https://images.unsplash.com/photo-1615840287214-7fe58a8f3685?auto=format&fit=crop&q=80&w=400",
+      "description": "Protège à peine des courants d'air."
+    }
+  ],
+  "probabilites": {
+    "Commun": 75,
+    "Rare": 20,
+    "Légendaire": 5
+  }
+}
